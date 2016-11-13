@@ -1,0 +1,10 @@
+There must be at least two players to play Liar's Dice!
+Each player gets a set of five dice, which is rolled one time when we start the game.
+On your turn, you will be able to view only your set of dice.
+On each of your turns, you will be asked two values : a guess of how many dice of a certain value are on the table.
+The first guess you will be asked about is how many dice are on the table.After each turn, the value of this guess must increase by at least one dice.
+You have been provided a six sided dice, so you can only guess a dice side value between 1 and 6.
+You can call liar at any point if you think the last player’s guess is wrong.This will end the game.
+You, the accuser, will win if the last player’s guess is wrong.
+The last player will win if they guess the correct amount of dice and the right side that was rolled.
+You can view everyone’s dice at the end of the game.
